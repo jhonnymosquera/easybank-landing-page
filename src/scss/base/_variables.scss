@@ -1,0 +1,23 @@
+//Tipografica
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap");
+
+$fuente_principal: "Public Sans", sans-serif;
+
+// colores
+$negro: #000000;
+$blanco: #ffffff;
+// Colores principales
+$fondo: #0e0e0e;
+$azul-oscuro: hsl(233, 26%, 24%);
+$verde-lima: hsl(136, 65%, 51%);
+$cian-brillante: hsl(192, 70%, 51%);
+$gradient: linear-gradient(76deg, $verde-lima 9%, $cian-brillante 92%);
+// Colores segundarios
+$azul-g: hsl(233, 8%, 62%);
+$azul-gc: hsl (220, 16%, 96%);
+$gris-mc: hsl(0, 0%, 98%);
+
+$movil: 480px;
+$tablet: 768px;
+$desktop: 992px;
+$desktopXL: 1200px;
